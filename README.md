@@ -1,2 +1,2 @@
-# Redux Course
-Created our own simplified version of Redux. Then we moved to using actual Redux.
+# Redux
+Created our own simplified version of Redux. And using an actual Redux.
